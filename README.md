@@ -1,16 +1,21 @@
 # last_exam
 
-A new Flutter project.
+# key Features :
+👉Create: Add new products to the shopping list.
 
-## Getting Started
+👉Read: View the list of products.
 
-This project is a starting point for a Flutter application.
+👉Update: Edit existing product details.
 
-A few resources to get you started if this is your first Flutter project:
+👉Delete: Remove products from the list.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+👉Responsive UI: Works well on both Android and iOS devices.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👉Persistent Storage: Data is stored locally, even after closing the app
+
+<img src ="https://github.com/user-attachments/assets/d4bc8b01-fb74-42c4-8f3a-8be7fe450226" hight=25% width=25%>
+<img src="https://github.com/user-attachments/assets/10247908-e464-48ec-9693-0ce326af3664" hight=25% width=25%>
+<img src="https://github.com/user-attachments/assets/fb563eed-009f-43f6-8f7a-ad0012df538e" hight=25% width=25%>
+
+https://github.com/user-attachments/assets/ad74ab5b-6758-43bc-9f9d-14faf1f19b1c
+
